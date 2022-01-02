@@ -1,26 +1,19 @@
 # Simple Traps [simpletraps]
-Mod for Minetest, that adds simple trap blocks (player can fall through 'em)
+Mod for Minetest Game, that adds simple trap blocks (players can fall through 'em)
+
+![Screenshot](https://content.minetest.net/uploads/b1ab0b775d.png)
 
 ## Crafts
 **Trap block:**
-S - Stick (default:stick)
-W - Any wood planks (group:wood)
-L - Any leaves (group:leaves)
 
-W S W
-
-S L S
-
-W S W
+![Craft](https://content.minetest.net/uploads/681a25ed5b.png)
 
 **Other:**
-You can craft trap version of any* block like this (shapeless recipe):
-B - Block
-T - Trap block (simpletraps:trap)
 
-B T
+To craft trapped version of the block (currently supported only stone, dirt, dirt with grass and sand) you can combine trap block and normal block.
+For example, crafting recipe of trapped stone:
 
-* this mod currently has only 4 blocks with trap version: stone, dirt, dirt with grass and sand. I'll add more blocks soon
+![Craft](https://content.minetest.net/uploads/e3a73aa318.png)
 
 ## Credits
-Trap block texture uses apple wood planks (default_wood.png) and simple leaves (default_leaves_simple.png) textures from Default mod by BlockMen (CC BY-SA 3.0)
+Trap block texture uses apple wood planks (default_wood.png) and simple leaves (default_leaves_simple.png) textures from Default mod by BlockMen (CC BY-SA 3.0) and celeron55 (CC BY-SA 3.0)
