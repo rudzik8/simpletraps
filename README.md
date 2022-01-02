@@ -10,7 +10,7 @@ Mod for Minetest Game, that adds simple trap blocks (players can fall through 'e
 
 **Other:**
 
-To craft trapped version of the block (currently supported only stone, dirt, dirt with grass and sand) you can combine trap block and normal block.
+To craft trapped version of the block (currently supported only stone, dirt, dirt with grass, sand and stone bricks) you can combine trap block and normal block.
 For example, crafting recipe of trapped stone:
 
 ![Craft](https://content.minetest.net/uploads/e3a73aa318.png)
