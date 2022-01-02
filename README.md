@@ -8,7 +8,9 @@ W - Any wood planks (group:wood)
 L - Any leaves (group:leaves)
 
 W S W
+
 S L S
+
 W S W
 
 **Other:**
