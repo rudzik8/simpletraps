@@ -21,4 +21,7 @@ For example, crafting recipe of trapped stone:
 **For media:** This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/
 
 ## Credits
-Trap block texture uses apple wood planks (default_wood.png) and simple leaves (default_leaves_simple.png) textures from Default mod by BlockMen (CC BY-SA 3.0) and celeron55 (CC BY-SA 3.0)
+Trap block texture is a derivative from two sources (from the Default mod, included in MTG):
+
+1. [Apple wood planks](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_wood.png) texture (default_wood.png) by [BlockMen](https://github.com/BlockMen), used under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / Combined with the next source
+2. [Simple leaves](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_leaves_simple.png) texture (default_leaves_simple.png) by [celeron55](https://github.com/celeron55), used under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
