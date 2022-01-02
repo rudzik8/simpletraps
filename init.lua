@@ -31,6 +31,12 @@ minetest.register_node("simpletraps:sand_trap", {
     groups = {snappy = 3, flammable = 2},
 	walkable = false,
 })
+minetest.register_node("simpletraps:stonebrick_trap", {
+    description = "Stone Brick (trap)",
+    tiles = {"default_stone_brick.png"},
+    groups = {snappy = 3, flammable = 2},
+	walkable = false,
+})
 
 -- Registering crafts
 minetest.register_craft({
