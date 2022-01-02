@@ -17,6 +17,7 @@ For example, crafting recipe of trapped stone:
 
 ## License
 **For code:** This work is licensed under the GNU Lesser General Public License, version 2.1. To view a copy of this license, visit https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
 **For media:** This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/
 
 ## Credits
