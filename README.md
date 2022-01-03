@@ -1,6 +1,8 @@
 # Simple Traps [simpletraps]
 Mod for Minetest Game, that adds simple trap blocks (players can fall through 'em)
 
+[![ContentDB](https://content.minetest.net/packages/rudzik8/simpletraps/shields/downloads/)](https://content.minetest.net/packages/rudzik8/simpletraps/)
+
 ![Screenshot](https://content.minetest.net/uploads/b1ab0b775d.png)
 
 ## Crafts
